@@ -140,6 +140,8 @@ The core values driving **nano banana ai pro** development include innovation, u
 
 Experience the future of image generation and editing by visiting [https://bananaai.pro/](https://bananaai.pro/) today. Start with free credits and discover how **nano banana ai pro** and its suite of advanced AI models can elevate your creative projects to professional standards with stunning 4K quality.
 
+<img width="2543" height="1295" alt="bananaai" src="https://github.com/user-attachments/assets/6ef85451-afc8-4dbe-ae8b-69c833b2053e" />
+
 ---
 
 **Official Website**: [https://bananaai.pro/](https://bananaai.pro/)
